@@ -4,7 +4,7 @@
             const candidates = {
                 'head-class': { // Updated 'head-class' data as provided by the user
                     male: [
-                        { name: "Bhimani Ayush", logoUrl: "election 2025/_MG_2621.JPG" },
+                        { name: "Ram Ayush", logoUrl: "election 2025/_G_2621.JPG" },
                         { name: "Vekariya Keval", logoUrl: "election 2025/_MG_2611.JPG" },
                         { name: "Bhaliya Charnesh", logoUrl: "election 2025/_MG_2607.JPG" },
                         { name: "Khunt Jash", logoUrl: "election 2025/_MG_2609.JPG" },
