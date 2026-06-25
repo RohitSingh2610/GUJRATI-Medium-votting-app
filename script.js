@@ -4,56 +4,53 @@
             const candidates = {
                 'head-class': { // Updated 'head-class' data as provided by the user
                     male: [
-                        { name: "Ram Ayush", logoUrl: "election 2025/_G_2621.JPG" },
-                        { name: "Vekariya Keval", logoUrl: "election 2025/_MG_2611.JPG" },
-                        { name: "Bhaliya Charnesh", logoUrl: "election 2025/_MG_2607.JPG" },
-                        { name: "Khunt Jash", logoUrl: "election 2025/_MG_2609.JPG" },
-                        { name: "Sanghani Nisarg", logoUrl: "election 2025/_MG_2624.JPG" }
+                        { name: "બેલડિયા પંથ", logoUrl: "gujarati_Medium\\બેલડિયા પંથ   કિયા.png" },
+                        { name: "સવાણી તીર્થ", logoUrl: "gujarati_Medium\\Untitled design (6).png" }
+                        
                     ],
                     female: [
-                        { name: "Sisodiya Rahi", logoUrl: "election 2025/_MG_2619.JPG" },
-                        { name: "Dobariya Angel", logoUrl: "election 2025/_MG_2614.JPG" },
-                        { name: "Mistry Jiya", logoUrl: "election 2025/_MG_2616.JPG" }
+                        { name: "દેસાઈ કિયા", logoUrl: "gujarati_Medium\\દેસાઈ કિયા.png" },
+                        { name: "નાવડિયા દ્રિવા", logoUrl: "gujarati_Medium\\નાવડિયા દ્રિવા.png" }
                     ]
                 },
                 'green-house': {
                     male: [
-                        { name: "SHIYANI DHARM LALJIBHAI", logoUrl: "gujarati_Medium/Dharm Siyani.png" },
-                        { name: "ANAGHAN HIT RASIKBHAI", logoUrl: "Logo.png" }
+                        { name: "શેલાડિયા જીલ", logoUrl: "gujarati_Medium\\શેલાડિયા જીલ.png" },
+                        { name: "મકવાણા પ્રતિક", logoUrl: "gujarati_Medium\\મકવાણા પ્રતિક.png" }
                     ],
                     female: [
-                        { name: "GOSAI JIYA GIRISHVAN", logoUrl: "gujarati_Medium/JIYA GOSAI.png" },
-                        { name: "PARMAR NAVYA SANJAYBHAI", logoUrl: "gujarati_Medium/Navya Parmar.png" }
+                        { name: "પરમાર નવ્યા", logoUrl: "gujarati_Medium\\પરમાર નવ્યા.png" },
+                        { name: "પ્રજાપતી હેના", logoUrl: "gujarati_Medium\\પ્રજાપતી હેના.png" }
                     ]
                 },
                 'yellow-house': {
                     male: [
-                        { name: "LUKHI SHUB DHAVALBHAI", logoUrl: "gujarati_Medium/Shubh Lukkhi.png" },
-                        { name: "PADMANI DHARM PIYUSHBHAI", logoUrl: "gujarati_Medium/Dharm Padmani.png" }
+                        { name: "પાંચાણી આરવ", logoUrl: "gujarati_Medium\\પાંચાણી આરવ.png" },
+                        { name: "ઉમરાળીયા યુગ", logoUrl: "gujarati_Medium\\ઉમરાળીયા યુગ.png" }
                     ],
                     female: [
-                        { name: "KUMBHANI MILI CHETANBHAI", logoUrl: "gujarati_Medium/Mili Kumbhani.png" },
-                        { name: "MISTRY TISHA MITULKUMAR", logoUrl: "gujarati_Medium/Tisha Mistry.png" }
+                        { name: "નાકરાણી આર્વી", logoUrl: "gujarati_Medium\\નાકરાણી આર્વી.png" },
+                        { name: "માલવિયા જેલી", logoUrl: "gujarati_Medium\\માલવિયા જેલી.png" }
                     ]
                 },
                 'red-house': {
                     male: [
-                        { name: "GHARSADIYA HET VIPULBHAI", logoUrl: "gujarati_Medium/HELI VAGHASIYA.png" },
-                        { name: "JAYANI DHARMIK JAYESHBHAI", logoUrl: "gujarati_Medium/Dharmik Jayani.png" }
+                        { name: "કુંભાણી આરવ", logoUrl: "gujarati_Medium\\કુંભાણી આરવ.png" },
+                        { name: "માવાણી હેત", logoUrl: "gujarati_Medium\\માવાણી હેત.png" }
                     ],
                     female: [
-                        { name: "TALAVIYA CHESTA RAKESHBHAI", logoUrl: "gujarati_Medium/Cheshta Talaviya.png" },
-                        { name: "NAVADIYA DRIVA HARSHADBHAI ", logoUrl: "gujarati_Medium/Driva Navadiya.png" }
+                        { name: "પટેલ વિહા", logoUrl: "gujarati_Medium\\પટેલ વિહા.png" },
+                        { name: "કાછડિયા પલ ", logoUrl: "gujarati_Medium\\કાછડિયા પલ.png" }
                     ]
                 },
                 'blue-house': {
                     male: [
-                        { name: "BALAR MAN NAYANBHAI", logoUrl: "gujarati_Medium/BALAR MAN.png" },
-                        { name: "THUMMAR TIRTH ASHOKBHAI", logoUrl: "gujarati_Medium/Tirth Thummar.png" }
+                        { name: "લુણાગરિયા ક્રિશ", logoUrl: "gujarati_Medium\\લુણાગરિયા ક્રિશ.png" },
+                        { name: "વિરાણી રોમિલ", logoUrl: "gujarati_Medium\\વિરાણી રોમિલ.png" }
                     ],
                     female: [
-                        { name: "DESAI KIYA YOGESHBHAI", logoUrl: "gujarati_Medium/Kiya Desai.png" },
-                        { name: "GHANTALA KHUSHALI RASIKBHAI", logoUrl: "gujarati_Medium/Khushali Ghantala.png" }
+                        { name: "ગધેસરિયા મહેક", logoUrl: "gujarati_Medium\\ગધેસરિયા મહેક.png" },
+                        { name: "માંગુકિયા નિવા", logoUrl: "gujarati_Medium\\માંગુકિયા નિવા.png" }
                     ]
                 }
             };
